@@ -40,9 +40,13 @@ Developed by: RegisterNumber:*/
 
 **RTL realization**
 
+<img width="743" height="601" alt="{830793F0-09B4-4D41-B6C9-8C251A3E09E7}" src="https://github.com/user-attachments/assets/4a404cfa-45f0-47ee-96f7-6e56b76e507e" />
+
 **Output:**
 
 **RTL**
+
+<img width="750" height="422" alt="{47595C6E-80EA-448E-9691-E2E3826FAB35}" src="https://github.com/user-attachments/assets/8cee1bc3-b09a-4327-97dc-80d91a0f0216" />
 
 **Timing Diagram**
 
